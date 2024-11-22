@@ -2,7 +2,7 @@
 Classification of Haul truck Operational State in open-pit mining with GPS using LSTM
 
 
-#Data Loading
+# Data Loading
 We started by loading the telemetry and labels data from CSV files. Using Pandas made it pretty straightforward, especially with datetime parsing. This way, we could easily work with timestamps later.
 
 Preprocessing
